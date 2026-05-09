@@ -29,6 +29,7 @@
 - JavaScript (Vanilla js)
 - HTML5
 - CSS3
+
 -Tailwind CSS
 
 <p align="center">
@@ -42,6 +43,7 @@
 ### 🚀 Classmanager 
 sistema de colegio full stack
 URl: https://classmanager-r062.onrender.com
+
 ✔ Control de roles  
 ✔ Arquitectura MVC + Services  
 ✔ Chat bot personalizado por rol
